@@ -6,7 +6,7 @@ setup(
   description = "Seattle's overlord package",
   author = 'Seattle',
   url = 'https://github.com/BuildSeash/overlord', # use the URL to the github repo
-  install_requires = ['seash', 'repy_v2', 'clearinghouse'],
+  install_requires = ['seash', 'repy_v2', 'clearinghouse', 'portability'],
   dependency_links = ["https://github.com/BuildSeash/seash/tarball/0.1" 
   ],
   classifiers = []
